@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="ru.tsum.features.Authentication" skipped="0" tests="1" time="0.0" timestamp="2020-11-09T13:48:48.672+03:00[Europe/Moscow]"><testcase classname="ru.tsum.features.Authentication" name="Initialisation"><error message="@ManagedPages field must be of type Pages" type="net.thucydides.core.steps.InvalidManagedPagesFieldException">@ManagedPages field must be of type Pages</error><system-err>@ManagedPages field must be of type Pages&#13;
+</system-err></testcase></testsuite>

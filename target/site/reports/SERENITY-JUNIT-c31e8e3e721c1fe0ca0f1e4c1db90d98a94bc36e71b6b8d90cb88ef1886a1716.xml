@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="ru.tsum.features.Authentication" skipped="0" tests="1" time="24.39" timestamp="2020-11-09T15:29:41.987+03:00[Europe/Moscow]"><testcase classname="ru.tsum.features.Authentication" name="Зарегистрировать нового пользователя с логином test@test.ru и паролем 1"/></testsuite>
